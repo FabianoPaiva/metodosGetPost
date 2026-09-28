@@ -52,7 +52,7 @@ Certifique-se de ter instalado em sua máquina:
 ## 🚀 Como Executar o Projeto
 
      1 - Clone o repositório e acesse a pasta:  
-             git clone <url-do-seu-repositorio>
+             git clone https://github.com/FabianoPaiva/metodosGetPost.git
              cd metodosGetPost
 
      2 - Instale as dependências:
@@ -68,6 +68,6 @@ Certifique-se de ter instalado em sua máquina:
 
 ## 🛠️ Tecnologias Utilizadas
 
-      TypeScript: Linguagem principal para tipagem estática e segurança no código de automação.
-      Node.js (Fetch API): Execução de requisições HTTP nativas.
-      Markdown: Documentação técnica dos contratos de integração.
+      * **TypeScript:** Linguagem principal para tipagem estática e segurança no código de automação.
+      * **Node.js (Fetch API):** Execução de requisições HTTP nativas.
+      * **Markdown:** Documentação técnica dos contratos de integração.
