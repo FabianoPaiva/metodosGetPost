@@ -10,7 +10,7 @@ A API escolhida para este laboratório foi a **Restful-booker**, uma aplicação
 
 O projeto está organizado separando a documentação técnica dos scripts de automação:
 
-```text
+```
 metodosGetPost/
 ├── docs/
 │   └── contrato-restful-booker.md    # Mapeamento detalhado dos contratos (GET e POST)
@@ -19,6 +19,7 @@ metodosGetPost/
 │       └── restful-booker.test.ts    # Script de automação e validação em TypeScript
 ├── package.json                      # Dependências e scripts do projeto
 └── tsconfig.json                     # Configuração do compilador TypeScript
+'''
 
 ---
 
@@ -37,7 +38,6 @@ POST       /booking       Cria uma nova reserva      200 OK
                           estadia e cliente). 
 
 ---
-
 
 ## ⚙️ Pré-requisitos
 
