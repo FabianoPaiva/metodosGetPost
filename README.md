@@ -27,7 +27,7 @@ metodosGetPost/
 
 O documento completo encontra-se na pasta docs/. Abaixo está o resumo dos endpoints mapeados:
 
-'''
+```
 Método     Endpoint       Descrição                  Status Esperado
 GET        /booking/:id   Recupera os detalhes de    200 OK
                           uma reserva específica 
