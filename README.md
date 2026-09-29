@@ -13,12 +13,12 @@ O projeto está organizado separando a documentação técnica dos scripts de au
 ```
 metodosGetPost/
 ├── docs/
-│   └── contrato-restful-booker.md    # Mapeamento detalhado dos contratos (GET e POST)
+│   └── contrato-restful-booker.md     Mapeamento detalhado dos contratos (GET e POST)
 ├── src/
 │   └── tests/
-│       └── restful-booker.test.ts    # Script de automação e validação em TypeScript
-├── package.json                      # Dependências e scripts do projeto
-└── tsconfig.json                     # Configuração do compilador TypeScript
+│       └── restful-booker.test.ts     Script de automação e validação em TypeScript
+├── package.json                       Dependências e scripts do projeto
+└── tsconfig.json                      Configuração do compilador TypeScript
 ```
 
 ---
@@ -70,6 +70,6 @@ Certifique-se de ter instalado em sua máquina:
 
 ## 🛠️ Tecnologias Utilizadas
 
-*     ** TypeScript: ** Linguagem principal para tipagem estática e segurança no código de automação.
-*     ** Node.js (Fetch API): ** Execução de requisições HTTP nativas.
-*     ** Markdown: ** Documentação técnica dos contratos de integração.
+* **TypeScript:** Linguagem principal para tipagem estática e segurança no código de automação.
+* **Node.js (Fetch API):** Execução de requisições HTTP nativas.
+* **Markdown:** Documentação técnica dos contratos de integração.
