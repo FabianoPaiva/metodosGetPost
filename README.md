@@ -27,6 +27,7 @@ metodosGetPost/
 
 O documento completo encontra-se na pasta docs/. Abaixo está o resumo dos endpoints mapeados:
 
+'''
 Método     Endpoint       Descrição                  Status Esperado
 GET        /booking/:id   Recupera os detalhes de    200 OK
                           uma reserva específica 
@@ -36,6 +37,7 @@ POST       /booking       Cria uma nova reserva      200 OK
                           com payload JSON 
                           aninhado (dados de 
                           estadia e cliente). 
+```
 
 ---
 
@@ -68,6 +70,6 @@ Certifique-se de ter instalado em sua máquina:
 
 ## 🛠️ Tecnologias Utilizadas
 
-      * **TypeScript:** Linguagem principal para tipagem estática e segurança no código de automação.
-      * **Node.js (Fetch API):** Execução de requisições HTTP nativas.
-      * **Markdown:** Documentação técnica dos contratos de integração.
+*       **TypeScript:** Linguagem principal para tipagem estática e segurança no código de automação.
+*       **Node.js (Fetch API):** Execução de requisições HTTP nativas.
+*       **Markdown:** Documentação técnica dos contratos de integração.
