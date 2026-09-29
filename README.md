@@ -19,7 +19,7 @@ metodosGetPost/
 │       └── restful-booker.test.ts    # Script de automação e validação em TypeScript
 ├── package.json                      # Dependências e scripts do projeto
 └── tsconfig.json                     # Configuração do compilador TypeScript
-'''
+```
 
 ---
 
