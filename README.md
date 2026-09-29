@@ -70,6 +70,6 @@ Certifique-se de ter instalado em sua máquina:
 
 ## 🛠️ Tecnologias Utilizadas
 
-*       **TypeScript:** Linguagem principal para tipagem estática e segurança no código de automação.
-*       **Node.js (Fetch API):** Execução de requisições HTTP nativas.
-*       **Markdown:** Documentação técnica dos contratos de integração.
+*     ** TypeScript: ** Linguagem principal para tipagem estática e segurança no código de automação.
+*     ** Node.js (Fetch API): ** Execução de requisições HTTP nativas.
+*     ** Markdown: ** Documentação técnica dos contratos de integração.
