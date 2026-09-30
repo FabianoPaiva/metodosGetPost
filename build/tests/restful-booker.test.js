@@ -54,7 +54,7 @@ async function testRestfulBookerContracts() {
                 "checkout": "2019-01-01"
             },
             "additionalneeds": "Breakfast"
-        }; //[cite: 1]
+        };
         const postResponse = await fetch(`${BASE_URL}/booking`, {
             method: "POST",
             headers: {
