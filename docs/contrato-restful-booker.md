@@ -33,6 +33,7 @@ Este documento mapeia os contratos de integração (endpoints de leitura `GET` e
     },
     "additionalneeds": "Breakfast"
 }
+```
 
 ---
 
@@ -61,6 +62,7 @@ Este documento mapeia os contratos de integração (endpoints de leitura `GET` e
     },
     "additionalneeds": "Breakfast"
 }
+```
 
 ---
 
@@ -82,4 +84,4 @@ Este documento mapeia os contratos de integração (endpoints de leitura `GET` e
         "additionalneeds": "Breakfast"
     }
 }
-
+```
